@@ -1,0 +1,7 @@
+{
+  "name": "Kisan Mitra - AI Crop Doctor & Precision Farm Advisory",
+  "description": "Hackathon-ready AI agricultural advisor for farmers with multimodal Gemini vision crop diagnosis, hyperlocal disease outbreak radar map with spore spread early warning, instant WhatsApp digital prescriptions, precision knapsack spray calculation, safe spray weather window, and CIBRC anti-counterfeit pesticide verification.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
